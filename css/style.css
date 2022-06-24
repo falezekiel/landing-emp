@@ -695,6 +695,7 @@ box-shadow: 0px 0px 22px 6px rgba(24,30,110,0.03);
   color: white;
   display: table-cell;
   vertical-align: middle;
+  
 }
 
 .site-logo img {
@@ -1509,7 +1510,7 @@ box-shadow: 10px 10px 34px -11px rgba(0,0,0,0.75);
 }
 
 .static-banner-image {
-	background:url(../images/header-slide-1.png) no-repeat right top;
+	background:url(../images/Imagecamb1-removebg-preview.png) no-repeat right top;
 	width:470px;
 	height:633px;
 	text-align:right;
@@ -2485,12 +2486,13 @@ box-shadow: -1px 10px 33px -5px rgba(24,30,110,0.31);
   margin: 0 auto;
   overflow: hidden;
   text-align: center;
-  max-width: 18.125rem;
+  max-width: 50.125rem;
 }
 
 .site-more-features .featured-img img {
   display: inline-block;
   vertical-align: middle;
+  width: 30rem;
 }
 
 .site-more-features .feature {
@@ -2893,6 +2895,7 @@ box-shadow: -1px 10px 33px -5px rgba(24,30,110,0.31);
   float:right;
   width: 100%;
   text-align:right;
+  margin-top: 7rem;
 }
 
 @media screen and (max-width: 991px) {
