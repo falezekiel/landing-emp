@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"sos360",
+    "site":"empoderate",
     "public": "./",
     "ignore": [
       "firebase.json",
